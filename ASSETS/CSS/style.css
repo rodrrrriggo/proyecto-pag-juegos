@@ -1,0 +1,35 @@
+
+body{
+    background-color: rgb(49, 49, 49);
+}
+
+img{
+    width: 8rem;
+    height: 3rem;
+}
+
+
+.carousel-item img{
+    margin: 0px;
+    width: 20rem;
+    height: 37rem;
+    object-fit: cover;
+}
+
+.container-propio{
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.container{
+    margin-left: 20px;
+}
+
+
+.body-bg{
+    background-image: url(/ASSETS/IMG/fondo.jpg);
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
